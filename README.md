@@ -1,1 +1,1 @@
-# openmr2021-dataviz-workshop-matlab
+# Interactive data visualization with Python, Plotly and Dash
